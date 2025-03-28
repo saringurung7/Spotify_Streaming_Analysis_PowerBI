@@ -88,11 +88,11 @@ Overview:
 ![Image](https://github.com/user-attachments/assets/e3e01010-be7a-4cfa-9410-2abbc1c42cb3)
 
 
-Listening Patterns
+Listening Patterns:
 ![Image](https://github.com/user-attachments/assets/c29381ba-66cb-4693-8cdb-3b326d6fa426)
 
 
-Details
+Details:
 ![Image](https://github.com/user-attachments/assets/6239f3b1-ecb8-4326-b2e1-143ca403508f)
 
 
